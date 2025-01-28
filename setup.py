@@ -13,7 +13,7 @@ setup(
     install_requires=[
         'numpy>=1.18.5',
         'tqdm>=4.46.1',
-        'esig~=0.9.7',
+        'esig>=1.0.0',
     ],
     extras_require={
         ':python_version < "3.8"': [
