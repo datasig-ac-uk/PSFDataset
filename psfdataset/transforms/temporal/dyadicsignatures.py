@@ -9,7 +9,7 @@
 from typing import List
 
 import numpy as np
-from esig import tosig
+import esig as tosig
 
 from ...types import DescriptionDict
 
